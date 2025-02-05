@@ -1,4 +1,1 @@
-- 👋 Hi, I’m Matthew Kennedy
-- 👀 I’m interested in networking, server maintenance, homelab servers, and really anything server related
-- 🌱 I’m currently learning Python, C++, and how to configure my homelab
-- 📫 How to reach me ...
+
