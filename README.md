@@ -12,7 +12,7 @@
 
 <p align="left">✨ Creating bugs since July of 2024
 <br>
-📚 I'm currently learning Go and GraphQL for creating a command-line interface for [Linear](linear.app)
+📚 I'm currently learning Go and GraphQL for creating a command-line interface for [Linear](https://linear.app)
 <br>
 🎲 Fun fact: I use NeoVim, by the way ;)
 </p>
