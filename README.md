@@ -24,7 +24,9 @@
 ###
 
 My Website: https://matthew-kennedy.com
+<br>
 My YouTube Channel: https://www.youtube.com/channel/UCoqsSKaBEk9B9bblfg_bLsw
+<br>
 Stuff I'm Learning: https://github.com/Matthew-K310/til.git
 
 ###
