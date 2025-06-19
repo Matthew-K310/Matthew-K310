@@ -1,26 +1,58 @@
-# Matthew Kenendy
+<h1 align="left">Ahoy Hoy</h1>
 
----
+###
 
-### Languages and Tools
+<p align="left">My name is Matthew Kennedy and I'm a software engineer based in Fort Worth, Texas.</p>
 
-<img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://svgl.app/library/golang-light.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://svgl.app/library/html5.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://svgl.app/library/css_old.svg" />
-<img align="left" alt="Swift" width="30px" style="padding-right:10px;" src="https://svgl.app/library/swift.svg" />
-<img align="left" alt="Lua" width="30px" style="padding-right:10px;" src="https://svgl.app/library/lua.svg" />
-<img align="left" alt="Markdown" width="30px" style="padding-right:10px;" src="https://svgl.app/library/markdown-light.svg" />
-<img align="left" alt="GraphQL" width="30px" style="padding-right:10px;" src="https://svgl.app/library/graphql.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://svgl.app/library/git.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://svgl.app/library/linux.svg" />
-<br />
+###
 
-#
+<h2 align="left">About me</h2>
 
-### Stats
+###
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Matthew-K310&theme=rose-pine&border_radius=4.5) -->
+<p align="left">✨ Creating bugs since July of 2024
+<br>
+📚 I'm currently learning Go and GraphQL for creating a command-line interface for [Linear](linear.app)
+<br>
+🎲 Fun fact: I use NeoVim, by the way ;)
+</p>
 
-#
+###
 
-[website]: https://matthew-kennedy.com
+<h2 align="left">My Links</h2>
+
+###
+
+My Website: https://matthew-kennedy.com
+My YouTube Channel: https://www.youtube.com/channel/UCoqsSKaBEk9B9bblfg_bLsw
+Stuff I'm Learning: https://github.com/Matthew-K310/til.git
+
+###
+
+<h2 align="left">Stuff I use</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" height="40" alt="elixir logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+</div>
+
+###
